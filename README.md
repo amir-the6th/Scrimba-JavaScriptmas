@@ -1,2 +1,2 @@
-# Scrimba-Javascriptmas
+# 🎄 JavaScriptmas - Scrimba
 Here I have gathered my solutions for the daily Javascript challenges in Scrimba - Javascriptmas
